@@ -1,0 +1,30 @@
+{
+  "name": "foundry-buildbear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "createTestnet": "node forking.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts-upgradeable": "^4.8.0-rc.1",
+    "@types/node": "^18.7.13",
+    "axios": "^1.3.5",
+    "ds-test": "https://github.com/dapphub/ds-test.git",
+    "env": "^0.0.2",
+    "ethers": "^6.8.0",
+    "forge-std": "https://github.com/foundry-rs/forge-std",
+    "inquirer": "^9.1.5",
+    "micro-onchain-metadata-utils": "^0.1.1",
+    "ora": "^6.3.0",
+    "sol-uriencode": "^0.2.0"
+  }
+}

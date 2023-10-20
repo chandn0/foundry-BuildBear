@@ -1,0 +1,10 @@
+{
+  "testnetId": "total-jek-tono-porkins-6f384f23",
+  "chainId": 10057,
+  "rpcUrl": "https://rpc.dev.buildbear.io/total-jek-tono-porkins-6f384f23",
+  "faucetUrl": "https://faucet.dev.buildbear.io/total-jek-tono-porkins-6f384f23",
+  "explorerUrl": "https://explorer.dev.buildbear.io/total-jek-tono-porkins-6f384f23",
+  "verificationUrl": "https://api.dev.buildbear.io/v1/api/verify/etherscan/total-jek-tono-porkins-6f384f23",
+  "mnemonic": "option legend devote renew track metal deputy smile ski source conduct tray",
+  "forkingChainId": 1
+}
